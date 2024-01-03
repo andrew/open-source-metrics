@@ -18,7 +18,8 @@ Documenting various metrics available for open source projects
 
 #### Issues
 
-- Number of issues
+- Number of issues opened
+- Number of issues closed
 - Average time to close issues
 - Number of unique issue authors
 - Number of issue comments
@@ -34,7 +35,8 @@ Documenting various metrics available for open source projects
 
 #### Pull/Merge Requests
 
-- Number of pull requests
+- Number of pull requests opened
+- Number of pull requests closed
 - Average time to close/merge pull requests
 - Number of unique pull requests authors
 - Number of pull requests comments
@@ -50,16 +52,19 @@ Documenting various metrics available for open source projects
 - Number of pull request reviews
 - Number of unique pull request review authors
 - Average number of reviews per pull request
+- Average time to review pull requests
 - Ratio of self-reviews vs non-self-reviews
 - Ratio of self-merges vs non-self-merges
 - Lines of code added/removed
 - Average time to first response
 
-### Mailing list Metrics
+### Discussion/Mailing list Metrics
 
-- Number of emails
-- Number of senders
+- Number of posts
+- Number of unique posters
 - Number of threads
+- Average posts per thread
+- Average posts per poster
 
 ### Release Metrics
 
