@@ -1,7 +1,6 @@
 # Open Source Metrics
-Documenting various metrics available for open source projects
 
-## Time Series Data
+Documenting various metrics available for open source projects that can be used to visualize changes to the project over time and find correlations between metrics.
 
 ### Code contribution Metrics
 
@@ -101,6 +100,14 @@ Documenting various metrics available for open source projects
 - Number of vulnerabilities published
 - Number of unfixed vulnerabilities
 - Number of outdated dependencies
+
+### Funding Metrics
+
+- Income
+- Expenses
+- Balance
+- Number of unique funders
+- Number of new funders
 
 ## Sources
 
