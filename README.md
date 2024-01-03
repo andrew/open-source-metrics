@@ -13,6 +13,10 @@ Documenting various metrics available for open source projects
 - Committer organization breakdown
 - Committer location breakdown
 - Lines of code added/removed
+- Average lines of code added/removed per committer
+- Number of files changed
+- Number of active branches
+- Number of new committers
 
 ### Bug tracker Metrics
 
@@ -32,6 +36,7 @@ Documenting various metrics available for open source projects
 - Issue author location breakdown
 - Ratio of self-close vs non-self-close
 - Average time to first response
+- Number of new issue authors
 
 #### Pull/Merge Requests
 
@@ -56,7 +61,9 @@ Documenting various metrics available for open source projects
 - Ratio of self-reviews vs non-self-reviews
 - Ratio of self-merges vs non-self-merges
 - Lines of code added/removed
+- Number of files changed
 - Average time to first response
+- Number of new pull request authors
 
 ### Discussion/Mailing list Metrics
 
@@ -65,6 +72,7 @@ Documenting various metrics available for open source projects
 - Number of threads
 - Average posts per thread
 - Average posts per poster
+- Number of new posters
 
 ### Release Metrics
 
@@ -72,6 +80,7 @@ Documenting various metrics available for open source projects
 - Per release download counts
 - Number of dependents pinned to release
 - Number of unique release authors
+- Number of new release authors
 
 ### Populartity Metrics
 
