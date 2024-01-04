@@ -9,6 +9,7 @@
 - should be mostly independent of software ecosystem, language or runtime specifics
 - should be trackable over time, ideally including access to historical data
 - should be independent of project/community size
+- should be aggregatable across many projects
 
 #### Non-goals
   - measuring individual developer productivity
