@@ -1,4 +1,4 @@
-# Project direction
+# Project Trajectory
 
 #### Goals: 
  - To be able to see at a glance the trajectory one or more open source projects are on
