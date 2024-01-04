@@ -2,6 +2,10 @@
 
 Documenting various metrics available for open source projects that can be used to visualize changes to the project over time and find correlations between metrics.
 
+## Time series metrics
+
+Time series metrics quantify patterns and trends in data over a chronological sequence
+
 ### Code contribution Metrics
 
 | Metric                                   | Desired change direction | tbd |
@@ -133,6 +137,25 @@ Documenting various metrics available for open source projects that can be used 
 | Number of unique funders        |        ⬆️         |                 |
 | Number of new funders           |        ⬆️         |                 |
 
+
+## Binary Metrics
+
+Binary metrics assess data with two possible outcomes, some times the time of the change can be found and so turned into a comparible time series metric.
+
+### Maintenance Metrics
+
+- Has an open source license
+- Documents governance model
+- Has contributing guideliens
+- Has documentation
+
+### Security Metrics
+
+- Has a security policy document
+- Uses CI
+- Uses an automatic dependency updating tool
+- Uses fuzzing tools
+- Uses static analysis tools
 
 ## Sources
 
