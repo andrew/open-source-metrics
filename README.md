@@ -4,111 +4,135 @@ Documenting various metrics available for open source projects that can be used 
 
 ### Code contribution Metrics
 
-- Number of commits
-- Nubmer of unique committers
-- Number of bot commits
-- Number of unique bot committers
-- Average number of commits per committer
-- Committer organization breakdown
-- Committer location breakdown
-- Lines of code added/removed
-- Average lines of code added/removed per committer
-- Number of files changed
-- Number of active branches
-- Number of new committers
+| Metric                                   | Desired change direction | tbd |
+|------------------------------------------|-----------------|-----------------|
+| Number of commits                        |        ⬆️         |                 |
+| Nubmer of unique committers              |        ⬆️        |                 |
+| Number of bot commits                    |        -         |                 |
+| Number of unique bot committers          |         -        |                 |
+| Average number of commits per committer   |        ⬆️         |                 |
+| Committer organization breakdown         |         ⬆️        |                 |
+| Committer location breakdown             |         ⬆️        |                 |
+| Lines of code added/removed              |         -        |                 |
+| Average lines of code added/removed per committer |        -         |                 |
+| Number of files changed                  |       -          |                 |
+| Number of active branches                |        -         |                 |
+| Number of new committers                 |        ⬆️         |                 |
+
 
 ### Bug tracker Metrics
 
 #### Issues
 
-- Number of issues opened
-- Number of issues closed
-- Average time to close issues
-- Number of unique issue authors
-- Number of issue comments
-- Average number of comments per issue
-- Number of bot issues
-- Number of unique bot issue authors
-- Issue author association breakdown
-- Issue label breakdown
-- Issue author organization breakdown
-- Issue author location breakdown
-- Ratio of self-close vs non-self-close
-- Average time to first response
-- Number of new issue authors
+| Metric                                    | Desired change direction | tbd |
+|-------------------------------------------|-----------------|-----------------|
+| Number of issues opened                   |         ⬆️        |                 |
+| Number of issues closed                   |         ⬆️        |                 |
+| Average time to close issues              |        ⬇️         |                 |
+| Number of unique issue authors            |         ⬆️        |                 |
+| Number of issue comments                  |         ⬆️        |                 |
+| Average number of comments per issue      |        ⬆️         |                 |
+| Number of bot issues                      |         -        |                 |
+| Number of unique bot issue authors        |         -        |                 |
+| Issue author association breakdown        |        -         |                 |
+| Issue label breakdown                     |        -         |                 |
+| Issue author organization breakdown       |        ⬆️         |                 |
+| Issue author location breakdown           |        ⬆️         |                 |
+| Ratio of self-close vs non-self-close      |       ⬆️          |                 |
+| Average time to first response            |        ⬇️         |                 |
+| Number of new issue authors               |        ⬆️        |                 |
+
 
 #### Pull/Merge Requests
 
-- Number of pull requests opened
-- Number of pull requests closed
-- Average time to close/merge pull requests
-- Number of unique pull requests authors
-- Number of pull requests comments
-- Average number of comments per pull requests
-- Number of bot pull requests
-- Number of unique bot pull requests authors
-- Number of merged pull requests
-- Ratio of merged vs closed pull requests
-- Pull request author association breakdown
-- Pull request label breakdown
-- Pull request author organization breakdown
-- Pull request author location breakdown
-- Number of pull request reviews
-- Number of unique pull request review authors
-- Average number of reviews per pull request
-- Average time to review pull requests
-- Ratio of self-reviews vs non-self-reviews
-- Ratio of self-merges vs non-self-merges
-- Lines of code added/removed
-- Number of files changed
-- Average time to first response
-- Number of new pull request authors
+| Metric                                       | Desired change direction| tbd |
+|----------------------------------------------|-----------------|-----------------|
+| Number of pull requests opened               |         ⬆️        |                 |
+| Number of pull requests closed               |        ⬆️         |                 |
+| Average time to close/merge pull requests    |        ⬇️         |                 |
+| Number of unique pull requests authors       |         ⬆️        |                 |
+| Number of pull requests comments             |         ⬆️        |                 |
+| Average number of comments per pull requests |         ⬆️        |                 |
+| Number of bot pull requests                  |         -        |                 |
+| Number of unique bot pull requests authors   |         -        |                 |
+| Number of merged pull requests               |         ⬆️        |                 |
+| Ratio of merged vs closed pull requests      |         ⬆️        |                 |
+| Pull request author association breakdown    |         ⬆️        |                 |
+| Pull request label breakdown                 |         -        |                 |
+| Pull request author organization breakdown   |         ⬆️        |                 |
+| Pull request author location breakdown       |         ⬆️        |                 |
+| Number of pull request reviews               |         ⬆️        |                 |
+| Number of unique pull request review authors |         ⬆️        |                 |
+| Average number of reviews per pull request   |         ⬆️        |                 |
+| Average time to review pull requests         |         ⬇️        |                 |
+| Ratio of self-reviews vs non-self-reviews     |        ⬆️         |                 |
+| Ratio of self-merges vs non-self-merges       |        ⬆️         |                 |
+| Lines of code added/removed                  |         -        |                 |
+| Number of files changed                      |        -         |                 |
+| Average time to first response               |        ⬇️         |                 |
+| Number of new pull request authors           |        ⬆️         |                 |
+
 
 ### Discussion/Mailing list Metrics
 
-- Number of posts
-- Number of unique posters
-- Number of threads
-- Average posts per thread
-- Average posts per poster
-- Number of new posters
+| Metric                              | Desired change direction | tbd |
+|-------------------------------------|-----------------|-----------------|
+| Number of posts                     |         ⬆️        |                 |
+| Number of unique posters            |         ⬆️        |                 |
+| Number of threads                   |         ⬆️        |                 |
+| Average posts per thread            |         ⬆️        |                 |
+| Average posts per poster            |         ⬆️        |                 |
+| Number of new posters               |         ⬆️        |                 |
+
 
 ### Release Metrics
 
-- Number of releases
-- Per release download counts
-- Number of dependents pinned to release
-- Number of unique release authors
-- Number of new release authors
+| Metric                               | Desired change direction | tbd |
+|--------------------------------------|-----------------|-----------------|
+| Number of releases                   |        ⬆️         |                 |
+| Time between releases                |        ⬇️         |                 |
+| Per release download counts         |         ⬆️        |                 |
+| Number of dependents pinned to release|        -         |                 |
+| Number of unique release authors     |         ⬆️        |                 |
+| Number of new release authors        |        ⬆️         |                 |
 
 ### Populartity Metrics
 
-- Stars
-- Forks
-- Watchers
-- Downloads
-- Dependent packages
-- Dependent repositories
-- Dependent containers
-- Container Downloads
-- Page views
-- Git clones
-- Stackoverflow questions and answers
+| Metric                            | Desired change direction | tbd |
+|-----------------------------------|-----------------|-----------------|
+| Stars                             |        ⬆️         |                 |
+| Forks                             |        ⬆️         |                 |
+| Watchers                          |        ⬆️         |                 |
+| Downloads                         |        ⬆️         |                 |
+| Dependent packages                |        ⬆️         |                 |
+| Dependent repositories            |        ⬆️         |                 |
+| Dependent containers               |       ⬆️          |                 |
+| Container Downloads               |        ⬆️         |                 |
+| Page views                        |        ⬆️         |                 |
+| Git clones                        |        ⬆️         |                 |
+| Stackoverflow questions and answers|        ⬆️         |                 |
+
 
 ### Security Metrics
 
-- Number of vulnerabilities published
-- Number of unfixed vulnerabilities
-- Number of outdated dependencies
-- OpenSSF Scorecard score
+| Metric                               | Desired change direction | tbd |
+|--------------------------------------|-----------------|-----------------|
+| Number of vulnerabilities published  |         -        |                 |
+| Number of unfixed vulnerabilities     |        ⬇️         |                 |
+| Number of outdated dependencies       |       ⬇️          |                 |
+| OpenSSF Scorecard score               |        ⬆️         |                 |
+
 
 ### Funding Metrics
 
-- Income
-- Expenses
-- Balance
-- Number of unique funders
-- Number of new funders
+| Metric                          | Desired change direction | tbd |
+|---------------------------------|-----------------|-----------------|
+| Income                          |        ⬆️         |                 |
+| Expenses                        |         ⬆️        |                 |
+| Balance                         |        -         |                 |
+| Number of unique funders        |        ⬆️         |                 |
+| Number of new funders           |        ⬆️         |                 |
+
 
 ## Sources
 
