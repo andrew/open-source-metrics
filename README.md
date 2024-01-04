@@ -100,6 +100,7 @@ Documenting various metrics available for open source projects that can be used 
 - Number of vulnerabilities published
 - Number of unfixed vulnerabilities
 - Number of outdated dependencies
+- OpenSSF Scorecard score
 
 ### Funding Metrics
 
