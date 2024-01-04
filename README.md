@@ -112,6 +112,7 @@ Documenting various metrics available for open source projects that can be used 
 ## Sources
 
 - [Ecosyste.ms](https://ecosyste.ms/) - Tools and open datasets to support, sustain, and secure critical digital infrastructure
+- [Cauldron Projet Metrics](https://gitlab.com/cauldronio/cauldron/-/tree/master/guides/metrics)
 - [OpenSSF Scorecard](https://github.com/ossf/scorecard) - Security health metrics for Open Source
 - [CHAOSS](https://chaoss.community/kb-metrics-and-metrics-models/) - Community Health Analytics in Open Source Software
 - [Open Source Metrics](https://opensource.guide/metrics/) - Make informed decisions to help your open source project thrive by measuring and tracking its success.
